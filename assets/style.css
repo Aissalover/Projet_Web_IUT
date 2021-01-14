@@ -45,7 +45,9 @@ header img{
 	width: 2em;
 	
 }
-
+input:focus {
+  outline: none;
+}
 header ul {
 	display :flex;
 	flex-direction: row;
